@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "6253fc1ff36b5169a13fd713"
+  },
+  "Name": "Burger",
+  "EntryDate": "2022-04-11",
+  "Price": "300"
+},{
+  "_id": {
+    "$oid": "6253fd04f36b5169a13fd714"
+  },
+  "Name": "Pizza",
+  "EntryDate": "2022-04-09",
+  "Price": "250"
+},{
+  "_id": {
+    "$oid": "6253fd3bf36b5169a13fd715"
+  },
+  "Name": "Sandwitch",
+  "EntryDate": "2022-04-06",
+  "Price": "200"
+}]
